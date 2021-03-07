@@ -1,0 +1,79 @@
+# Blender MTL File: 'ModelRenderLighting.blend'
+# Material Count: 6
+
+newmtl 4_+gasmask_hood_up.gasmask_hood_up_0.06_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.515512 0.494296 0.427210
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Chemsuit, Splinter Cell Blacklist\chemmask_bm.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemmask_nm.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemmask_bm.png
+
+newmtl 4_+hood_up.hood_up_0.05_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.758097 0.594707 0.400686
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Chemsuit, Splinter Cell Blacklist\chemsuit_bm.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemsuit_nm.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemsuit_bm.png
+
+newmtl 4_-gasmask_hood_down.gasmask_hood_down_0.06_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.481403 0.574066 0.788061
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Chemsuit, Splinter Cell Blacklist\chemmask_bm.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemmask_nm.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemmask_bm.png
+
+newmtl 4_-hood_down.hood_down_0.05_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.595521 0.544041 0.689768
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Chemsuit, Splinter Cell Blacklist\chemsuit_down_bm.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemsuit_down_nm.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemsuit_down_bm.png
+
+newmtl 4_Material146_0.05_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.599737 0.702669 0.754869
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Chemsuit, Splinter Cell Blacklist\chemwar_russian_head_a_col.png
+map_Bump D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemwar_russian_head_a_nml.png
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\chemwar_russian_head_a_col.png
+
+newmtl 5_Material147_1_0_0
+Ns 96.078431
+Ka 1.000000 1.000000 1.000000
+Kd 0.520826 0.650096 0.510889
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd D:\Dropbox (Personal)\Shared Files\XPS\Chemsuit, Splinter Cell Blacklist\eyeball_cod.tga
+map_d D:\\Dropbox (Personal)\\Shared Files\\XPS\\Chemsuit, Splinter Cell Blacklist\\eyeball_cod.tga

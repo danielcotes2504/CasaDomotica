@@ -17,8 +17,9 @@ ubidots 1.6.6
 pyserial 3.5
 time 3.7
 ````
-
-
+# Documentation 
+This section contains the documentation that integrates the methodologies and references used for the development of the project
+[CasaDómotica.docx.pdf](https://github.com/danielcotes2504/CasaDomotica/files/6135971/CasaDomotica.docx.pdf)
 
 # Test Images
 
@@ -30,3 +31,5 @@ time 3.7
 ![image6](https://user-images.githubusercontent.com/36736949/111055289-6a3ca780-8442-11eb-8834-663346cd549c.jpg)
 ![image7](https://user-images.githubusercontent.com/36736949/111055291-6c9f0180-8442-11eb-92e4-9c1f29fb8647.jpg)
 ![image8](https://user-images.githubusercontent.com/36736949/111055292-6e68c500-8442-11eb-8e01-e4341eccbb8d.jpg)
+
+

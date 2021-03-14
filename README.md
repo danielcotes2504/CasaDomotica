@@ -1,4 +1,6 @@
 # CasaDomotica
+This project was developed with Unity 2019.4.01f, Proteus 8.5, Arduino IDE 1.18.3 and Python 3.7. It is a project that aims to communicate between an IoT platform such as Ubidots and the prototype of a domotic house represented in Unity. The project was about the creation of a smart house to solve problems related to the comfort and ease of people in their homes when they are not at home and must deal with weather changes such as rains.
+
 
 
 #Programming languages

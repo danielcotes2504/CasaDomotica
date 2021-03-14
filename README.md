@@ -1,6 +1,14 @@
 # CasaDomotica
 
 
+#Programming languages
+```
+C# 7.3
+Python 7.3
+C++ 11 (By Arduino)
+```
+
+
 #Libraries
 ```
 ubidots 1.6.6
